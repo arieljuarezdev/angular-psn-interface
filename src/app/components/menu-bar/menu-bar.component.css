@@ -23,8 +23,7 @@
     height: 32px;
 }
 
-.menu-bar__item{
-    display: flex;
-    margin: auto;
-    align-items: center;
+app-menu-bar-item{
+    margin: auto
 }
+
